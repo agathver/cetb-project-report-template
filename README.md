@@ -2,6 +2,8 @@
 
 Use for major project, minor project and seminar reports.
 
+[View preview](sample.pdf)
+
 ## Using the template
 
 ### Compiling
