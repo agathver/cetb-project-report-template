@@ -24,11 +24,11 @@ Should run in Overleaf and TexLive (pdfLaTex and XeLaTex)
 
 ### Editing front matter
 
-Variables in lines 20-38 provide an easy way to customize front-matter like title, authors, guide etc.
+Variables in [lines 20-38](main.tex#L20-L38) provide an easy way to customize front-matter like title, authors, guide etc.
 
 ### Using Times font
 
-If your department requires you to use a Times font, uncomment line 11
+If your department requires you to use a Times font, uncomment [line 11](main.tex#L11)
 
 ## License 
 
